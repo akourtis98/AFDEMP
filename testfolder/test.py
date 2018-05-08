@@ -1,3 +1,3 @@
-printf("hello world")
+print("hello world")
 
 exit(0)
