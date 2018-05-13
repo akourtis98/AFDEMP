@@ -1,0 +1,56 @@
+h1{
+	font-family: Raleway;
+	color: #191919;
+}
+#line{
+	position: relative;
+	width: 100%;
+	height: 100px;
+	box-shadow: 0 -2px 2px -3px #b2b2b2;
+	border-top: 1px solid #b2b2b2;
+}
+#box{
+	position: relative;
+	margin: auto;
+	transition: 2s ease;
+	height: 50px;
+	cursor: pointer;
+	border-radius: 10%;
+	background-color: black;
+}
+.boxnostyle{
+	width: 55px;
+}
+.chngColor{
+	width: 50px;
+	height: 50px;
+	background-color: #FF4136;
+}
+.chngColor1{
+	width: 100px;
+	height: 100px;
+	background-color: #0074D9;
+}
+#hoverme{
+	position: relative;
+	top: 0px;
+	transition: 2s ease;
+	border-radius: 0%;
+	margin: auto;
+}
+h3{
+	margin: auto;
+	margin-top: 50px;
+	font-family: courier;
+	letter-spacing: 5px;
+
+}
+p{
+	margin: auto;
+	margin-top: 0px;
+	font-family: courier;
+	letter-spacing: px;
+}
+div{
+	text-align: center;
+}
